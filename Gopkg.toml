@@ -230,7 +230,7 @@
 
 [[override]]
  name = "github.com/docker/cli"
- revision = "6b63d7b96a41055baddc3fa71f381c7f60bd5d8e"
+ version = "^20.10.7"
 
 [[override]]
  name = "github.com/docker/distribution"
